@@ -1,0 +1,5 @@
+Formated data : 
+Number 1: 1234.44
+Number 2: 9876.54
+padded number:         42
+filled number: ********42
