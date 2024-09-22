@@ -9,7 +9,7 @@ int main(){
     fin.open("abc.txt");
     while(!fin.eof()){
         fin.get(ch);
-        cout<<ch;
+        cout<<ch<<endl;;
     }
     fin.close();
     return 0;
